@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<testsuite errors="0" failures="0" name="RunAddTest-20161111152406" tests="4" time="0.000">
+	<testcase classname="RunAddTest" name="test_add_fail" time="0.000"/>
+	<testcase classname="RunAddTest" name="test_add_pass" time="0.000"/>
+	<testcase classname="RunAddTest" name="test_fail" time="0.000"/>
+	<testcase classname="RunAddTest" name="test_pass" time="0.000"/>
+	<system-out>
+<![CDATA[]]>	</system-out>
+	<system-err>
+<![CDATA[]]>	</system-err>
+</testsuite>
